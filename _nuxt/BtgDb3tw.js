@@ -1,0 +1,1 @@
+import{g as n,c as o,n as a,o as s}from"./BNOXwMYv.js";const _={style:{padding:"40px"}},d={__name:"index",async setup(c){let e,t;return[e,t]=n(()=>a("/login")),await e,t(),(i,r)=>(s(),o("div",_,"Redirecting to the demo login…"))}};export{d as default};
